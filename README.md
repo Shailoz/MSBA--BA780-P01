@@ -1,5 +1,5 @@
  # **<u>TEAM B01 - Boston 311 Service Request and Resolution Analysis</u>**
-### **<u>*Team Members*</u>:** Rohit Devanaboina, Yifan (Eva) Fan, Riris Grace, Jiayi Huang, Shailoz Kumar Singh
+### **<u>*Team Members*</u>:** Shailoz Kumar Singh, Rohit Devanaboina, Yifan (Eva) Fan, Riris Grace, Jiayi Huang
 ![picture](https://www.thedataschool.com.au/wp-content/uploads/2022/01/Featured-picture-1080x265.png)
 
 ---
